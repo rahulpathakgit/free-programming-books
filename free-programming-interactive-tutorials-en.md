@@ -105,6 +105,7 @@
 ### Java
 
 * [CodingBat code practice](http://codingbat.com/java)
+* [Java at Codecademy](https://www.codecademy.com/courses/learn-java)
 * [Learn Java](http://www.learnjavaonline.org)
 * [Learneroo Java tutorial](https://www.learneroo.com/modules/11)
 
@@ -181,11 +182,6 @@
 * [Try R](http://tryr.codeschool.com)
 
 
-### Racket
-
-* [Try Racket](http://try-racket.org)
-
-
 ### Ruby
 
 * [CodeCademy Ruby](https://www.codecademy.com/learn/ruby)
@@ -204,6 +200,7 @@
 
 ### SQL
 
+* [SQL at Codecademy](https://www.codecademy.com/courses/learn-sql)
 * [SQLBolt](http://sqlbolt.com)
 
 

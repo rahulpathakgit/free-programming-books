@@ -1,5 +1,6 @@
 ### Index
 
+* [Algorithmic](#algorithms)
 * [Android](#android)
 * [AngularJS](#angularjs)
 * [Assembly](#assembly)
@@ -7,6 +8,7 @@
 * [C#](#c-sharp)
 * [C++](#c-2)
 * [Clojure](#clojure)
+* [CUDA](#cuda)
 * [Databases](#databases)
 * [Git](#git)
 * [Go](#go)
@@ -30,6 +32,12 @@
 * [Web Development](#web-development)
 
 
+### Algorithms
+
+* [Stanford University Algorithms: Design and Analysis, Part 1](http://online.stanford.edu/course/algorithms-design-and-analysis-part-1)
+* [Stanford University Algorithms:Algorithms: Design and Analysis, Part 2](http://online.stanford.edu/course/algorithms-design-and-analysis-part-2)
+
+
 ### Assembly
 
 * [Introduction To Reverse Engineering Software](http://opensecuritytraining.info/IntroductionToReverseEngineering.html)
@@ -38,7 +46,7 @@
 
 ### Android
 
-* [Creative, Serious and Playful Science of Android Apps](https://www.coursera.org/course/androidpart1apps101)
+* [Creative, Serious and Playful Science of Android Apps](https://www.coursera.org/course/androidapps101/)
 * [Programming Cloud Services for Android Handheld Systems](https://www.coursera.org/course/mobilecloudprogram)
 * [Programming Mobile Applications for Android Handheld Systems pt. 1](https://www.coursera.org/course/android)
 * [Programming Mobile Applications for Android Handheld Systems pt. 2](https://www.coursera.org/course/androidpart2)
@@ -72,6 +80,11 @@
 ### Clojure
 
 * [Functional Programming with Clojure](http://mooc.fi/courses/2014/clojure/index.html)
+
+
+### Cuda
+
+* [Intro to Parallel Programming Using CUDA to Harness the Power of GPUs](https://www.udacity.com/course/intro-to-parallel-programming--cs344)
 
 
 ### Databases
